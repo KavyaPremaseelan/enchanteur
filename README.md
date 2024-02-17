@@ -10,7 +10,6 @@ This is a simple travel website template built using HTML, CSS, and JavaScript.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
-- [License](#license)
 
 ## Description
 
