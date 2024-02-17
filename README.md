@@ -10,6 +10,7 @@ This is a simple travel website template built using HTML, CSS, and JavaScript.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
+- [Contributing](#contributing)
 
 ## Description
 
@@ -47,5 +48,8 @@ The Travel Website is designed to showcase various travel destinations, packages
 - **Bootstrap**: Used for styling and layout.
 - **Font Awesome**: Provides icons for visual elements.
 - **Google Fonts**: Used for typography.
+  
+## Contributing
 
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
